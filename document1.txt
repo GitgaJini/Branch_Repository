@@ -7,10 +7,9 @@ for i in range(10):
     print("Document1")
     print("Hello")
 
-# With quicksort() function, we will be utilizing the above code to obtain the pointer
-# at which the left values are all smaller than the number at pointer index and vice versa
-# for the right values.
- 
+for i in range(100):
+    print("Docu")
+    print("World")
  
 def quicksort(l, r, nums):
     if len(nums) == 1:  # Terminating Condition for recursion. VERY IMPORTANT!
